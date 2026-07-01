@@ -5,15 +5,21 @@ Challenge — part of the [Blaise OSE](https://github.com/Blaise-OSE).
 
 ## Status
 
-🚧 This repository currently contains a placeholder only. Documentation is populated
+🚧 Most of this repository is still a placeholder. Documentation is populated
 alongside the [Blaise xTECH Challenge](https://support.forwardedge.ai/en/?q=XTECH),
 opening **August 1, 2026**. Additional resources are available at the developer portal,
 [developer.blaise.ai](https://developer.blaise.ai).
 
+## Available now
+
+- **[Android SDK integration guide](android.md)** — installation, quick start, event
+  model, and error handling for [blaise-sdk](https://github.com/Blaise-OSE/blaise-sdk)
+  on Android
+- **[iOS SDK integration guide](ios.md)** — installation, quick start, event model, and
+  error handling for [blaise-sdk](https://github.com/Blaise-OSE/blaise-sdk) on iOS
+
 ## Planned contents
 
-- **SDK integration guide** — how to connect [blaise-sdk](https://github.com/Blaise-OSE/blaise-sdk)
-  to an application, covering both hardware and demo modes
 - **Spectral collection protocol** — standardized procedure for capturing and submitting
   spectra to the [blaise-spectral-library](https://github.com/Blaise-OSE/blaise-spectral-library),
   including the mandatory data quality training module
